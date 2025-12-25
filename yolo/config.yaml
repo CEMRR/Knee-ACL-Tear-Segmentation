@@ -1,0 +1,11 @@
+data_path: "./yolo_dataset/dataset.yaml"
+learning_rate: 5e-4
+patience: 100
+epochs: 500
+img_size: 512
+weight_decay: 0
+optimizer: sgd
+
+
+
+
