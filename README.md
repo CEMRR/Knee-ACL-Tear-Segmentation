@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1027561924.svg)](https://doi.org/10.5281/zenodo.18054534)
+
 # Knee MRI ACL Dataset and Baseline Code
 
 This repository accompanies our **Dataset for Anterior Cruciate Ligament Tears Segmentation in Knee MRI** paper and provides:
